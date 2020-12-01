@@ -30,3 +30,9 @@ I make elegantly professional **💻 Backend&serevr, 📱 mini apps , 🌐 Websi
 
   
 
+## TODO LIST
+
++ Redis（5%）
+
++ k8s（2%）
++ ELK（80%）
