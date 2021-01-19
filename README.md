@@ -1,7 +1,5 @@
 ## 👋 Hello there
 
-![](https://github.com/cjphaha/cjphaha/blob/main/icons/header.png)
-
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
 Hi guys,I am cjphaha,a college student from Jiangsu, China. I am a junior at present. I am good at golang, Vue and wechat mini-program development.
@@ -32,7 +30,5 @@ I make elegantly professional **💻 Backend&serevr, 📱 mini apps , 🌐 Websi
 
 ## TODO LIST
 
-+ Redis（5%）
-
-+ k8s（2%）
-+ ELK（80%）
++ k8s（5%）
++ 
