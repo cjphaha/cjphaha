@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
-Hi guys,I am cjphaha,a college student from Jiangsu, China. I am a junior at present. I am good at golang, Vue and wechat mini-program development.
+Hi guys,I am cjphaha,a college student from Jiangsu, China. I am a junior at present. I am good at golang, micro-serve, Vue and wechat mini-program development.
 
 ## 📫 Contact Me on Social Media
 
@@ -14,7 +14,10 @@ Hi guys,I am cjphaha,a college student from Jiangsu, China. I am a junior at pre
 
 Here are some information about me:
 
-I make elegantly professional **💻 Backend&serevr, 📱 mini apps , 🌐 Website, 📜  H5**and also **Write some blogs**. 🌈    
+I make elegantly professional **💻 Backend&serevr, 📱 mini apps , 🌐 Website, 📜  H5**and also **Write some blogs**. 🌈  
+
+This is my website 🌐:
+http://www.cjpa.top/
 
 * 🧐   Interested in full stack. Recent focus on backend.
 
@@ -31,4 +34,5 @@ I make elegantly professional **💻 Backend&serevr, 📱 mini apps , 🌐 Websi
 ## TODO LIST
 
 + k8s（5%）
-+ 
++ dubbo-go(5%)
++ get an offer(0%) 😭
