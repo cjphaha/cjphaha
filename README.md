@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
 
-Hi guys,I am cjphaha,a college student from Jiangsu, China. I am a junior at present. I am good at golang, micro-serve, cloud-native,Vue.js and wechat mini-program development.
+Hi guys,I am cjphaha,a college student from Jiangsu, China. I am a junior at present. I am good at **golang**, **micro-serve**, **cloud-native**,**Vue.js** and wechat **mini-program** development.
 
 ## 📫 Contact Me on Social Media
 
@@ -19,12 +19,10 @@ I make elegantly professional **💻 Backend&serevr, 📱 mini apps , 🌐 Websi
 This is my website 🌐:
 https://www.cjpa.top/
 
-* 🧐   Interested in full stack. Recent focus on backend.
+* 🧐   Interested in full stack. 
 
-* 🌱   Currently learning Golang.
-
-* 💻   With 4 years' computer science and technology education and 2 years' development working experience.
+* 💻   With 4 years' computer science and technology education and 3 years' development working experience.
 
 * ⚡ Fun fact: Political topics, digital products and coding.
 
-* 🔭 I’m currently working on a spider project based on Golang and a common Golang package develop-tool for WeChat developlers.
+* 🔭 I’m currently working on a RPC project based on Golang
