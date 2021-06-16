@@ -4,27 +4,17 @@
 
 Hi guys,I am cjphaha,a college student from Jiangsu, China. I am a junior at present. I am good at golang, micro-serve, cloud-native,Vue.js and wechat mini-program development.
 
+This is my website 🌐:https://www.cjpa.top
+
+* 🌱   Now working in bilibili.
+
+* 💻   With 4 years' computer science and technology education and 2 years' development working experience.
+
 ## 📫 Contact Me on Social Media
 
  ✉️ [Email](mailto:caorcjp@gmail.com) 
 
 ## 💻 Open Source Work Stats
 
-![cjphaha's Github stats](https://github-readme-stats.vercel.app/api?username=cjphaha&show_icons=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=cjphaha&show_icons=true&include_all_commits=true&count_private=true" alt="cjphaha's Github stats" style="zoom:80%;" />
 
-Here are some information about me:
-
-I make elegantly professional **💻 Backend&serevr, 📱 mini apps , 🌐 Website, 📜  H5**and also **Write some blogs**. 🌈  
-
-This is my website 🌐:
-https://www.cjpa.top/
-
-* 🧐   Interested in full stack. Recent focus on backend.
-
-* 🌱   Currently learning Golang.
-
-* 💻   With 4 years' computer science and technology education and 2 years' development working experience.
-
-* ⚡ Fun fact: Political topics, digital products and coding.
-
-* 🔭 I’m currently working on a spider project based on Golang and a common Golang package develop-tool for WeChat developlers.
