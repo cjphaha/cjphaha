@@ -6,7 +6,7 @@ Hi guys,I am cjphaha,a college student from Jiangsu, China. I am a junior at pre
 
 This is my website 🌐: https://cjpa.top , My Email: ✉️ [Email](mailto:caorcjp@gmail.com) 
 
-* 🌱   Now working in bilibili.
+* 🌱   Now working in Tencent.
 
 * 💻   With 4 years' computer science and technology education and 2 years' development working experience.
 
