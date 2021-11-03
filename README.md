@@ -10,7 +10,7 @@ This is my website 🌐: https://cjpa.top , My Email: ✉️ [Email](mailto:caor
 
 * 🌱   Now working in Tencent.
 * 💻   With 4 years' computer science and technology education and 2 years' development working experience.
-* apache/dubbo-go committer
+* 🧑🏻‍💻 Apache/dubbo committer
 
 
 
