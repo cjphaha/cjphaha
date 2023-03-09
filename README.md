@@ -4,7 +4,9 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![stars](https://img.shields.io/github/stars/cjphaha?style=social) ![follower](https://img.shields.io/github/followers/cjphaha?style=social)
 
-Hi guys,I am cjphaha,a college student from Jiangsu, China.  I am good at **golang**, **micro-serve**, **cloud-native**,**Vue.js** and wechat **mini-program** development.
+I am cjphaha.
+
+**Golang**, **Cloud-Native**, **Vue.js**, **React**, **TypeScript** and wechat **Mini-Program** development.
 
 This is my website 🌐: https://cjpa.top , My Email: ✉️ [Email](mailto:caorcjp@gmail.com) 
 
