@@ -9,7 +9,7 @@ Hi guys,I am cjphaha,a college student from Jiangsu, China.  I am good at **gola
 This is my website 🌐: https://cjpa.top , My Email: ✉️ [Email](mailto:caorcjp@gmail.com) 
 
 * 🌱   Now working in Tencent.
-* 💻   With 4 years' computer science and technology education and 2 years' development working experience.
+* 💻   With 4 years' computer science and technology education and 4 years' development working experience.
 * 🧑🏻‍💻 Apache/dubbo committer
 
 
